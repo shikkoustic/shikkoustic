@@ -26,7 +26,7 @@ My interests lie in **computer vision & pose estimation, RAG / multi-agent syste
 - 🏏 Most recent build: **CricLens** — cricket batting analysis from video
 - 🧮 Built and shipped **BaseCase** — a free curated DSA practice platform for 600+ problems
 - 💬 Ask me about DS-Algo, ML pipelines, RAG, or FastAPI-served ML apps
-- ⚡ Fun fact: Finance Sub-Head for CodeChef Bennett while shipping ML side-projects on the side
+- ⚡ Fun fact: I ship ML side-projects end-to-end — model, API, and UI — while grinding competitive programming on the side
 
 ### Current Focus
 
@@ -95,7 +95,7 @@ My interests lie in **computer vision & pose estimation, RAG / multi-agent syste
 - RAG pipeline (ChromaDB, sentence-transformer embeddings, cross-encoder reranking) with a web-augmented fallback.
 - Integrated MCP tool servers for notes, quiz generation, and live YouTube search.
 
-#### 🌫️ [Vayu — AQI Forecasting](https://github.com/shikkoustic/vayu-website-ml) — Satellite & Weather Data
+#### 🌫️ [Vayu — AQI Forecasting](https://github.com/shikkoustic/Vayu-AQI-Forecasting) — Satellite & Weather Data
 `Python` `Scikit-Learn` `NumPy` `HTML/CSS/JS`
 - ML models (CatBoost, LightGBM, XGBoost, Random Forest) forecasting AQI using satellite data from Google Earth Engine and meteorological parameters.
 - Feature engineering, hyperparameter tuning, and experiments with TabPFN, GRU, and LSTM.
@@ -105,11 +105,11 @@ My interests lie in **computer vision & pose estimation, RAG / multi-agent syste
 
 ### Professional Experience
 
-**Software Development Intern — Zyflow Automation** · *June 2026 – Present*
-Building AI-powered applications with modern dev workflows and cloud deployment. Designing agentic AI systems with context management, memory handling, tool integration, and workflow orchestration. Building conversational and voice-based AI solutions with LLMs and automation frameworks.
-
-**Finance Team Sub-Head — CodeChef Bennett University** · *Aug 2025 – May 2026*
-Managed financial planning and budget allocation for 4+ intra-college competitive programming events. Secured funding worth ₹6,000+ from sponsors. Mentored students in DS-Algo and competitive programming.
+**Software Development Intern — Zyflow Automation**
+*June 2026 – Oct 2026*
+- Developed AI-powered applications using modern development workflows and cloud-based deployment practices.
+- Designed and implemented agentic AI systems with context management, memory handling, tool integration, and workflow orchestration.
+- Built conversational and voice-based AI solutions leveraging LLMs and automation frameworks.
 
 ---
 
