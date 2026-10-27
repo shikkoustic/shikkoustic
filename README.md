@@ -17,16 +17,15 @@
 
 ### About Me
 
-I'm a 2nd-year CS undergrad who likes taking ML ideas from raw data all the way to a working, served product — not just notebooks. Currently building **agentic AI systems** at Zyflow Automation: context management, memory handling, tool integration, and LLM-driven workflow orchestration.
+I'm a 3rd-year CS undergrad who likes taking ML ideas from raw data all the way to a working, served product — not just notebooks.
 
-My interests lie in **computer vision & pose estimation, RAG / multi-agent systems, forecasting, and backend engineering** — I enjoy owning the full pipeline, from data collection and modeling to the API and UI that ship it.
+My interests lie in **computer vision, RAG / multi-agent systems, forecasting, and backend engineering** — I enjoy owning the full pipeline, from data collection and modeling to the API and UI that ship it.
 
 - 🔭 Currently building agentic AI systems (context, memory, tool-use, orchestration) at **Zyflow Automation**
 - 🌱 Deepening skills in computer vision + pose estimation and RAG / multi-agent workflows
 - 🏏 Most recent build: **CricLens** — cricket batting analysis from video
 - 🧮 Built and shipped **BaseCase** — a free curated DSA practice platform for 600+ problems
 - 💬 Ask me about DS-Algo, ML pipelines, RAG, or FastAPI-served ML apps
-- ⚡ Fun fact: I ship ML side-projects end-to-end — model, API, and UI — while grinding competitive programming on the side
 
 ### Current Focus
 
@@ -115,10 +114,10 @@ My interests lie in **computer vision & pose estimation, RAG / multi-agent syste
 
 ### Competitive Programming
 
-- **LeetCode** — 1000+ problems solved, peak rating **1847**
+- **LeetCode** — Peak rating **1847** (top 6.62%)
 - **CodeChef** — 3★, peak rating 1657 (top 4.25%), 100+ problems
 - **Codeforces** — Pupil, peak rating 1323
-- 900+ problems solved across 30+ rated contests overall
+- Solved 1000+ DS-Algo problems overall
 
 ---
 
